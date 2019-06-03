@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jeevan-PC/Documents/DSA/BasicGOGProblems/BinaryTree/ArrayToBST/main.cpp
+bits/stdc++.h
+-
+
