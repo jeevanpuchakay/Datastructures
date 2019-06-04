@@ -17,7 +17,7 @@ node* insertnode(node* paren,int x)
 {
     if(paren==NULL)
     {
-        createnode(x);
+        paren=createnode(x);
     } else{
         if(x<=paren->key)
         {
@@ -29,15 +29,22 @@ node* insertnode(node* paren,int x)
             paren->right=insertnode(paren->right,x);
         }
     }
-    return node;
+    return paren;
 }
-
+void showtree(node*temp)
+{
+    if(temp==NULL)
+        return;
+    showtree(temp->left);
+    cout<<temp->key<<" ";
+    showtree(temp->right);
+}
 int main()
 {
     node*root=NULL;
-    root=insertnode(root,1);
+    root=insertnode(root,9);
     insertnode(root,2);
-    insertnode(root,3);
+    insertnode(root,10);
     insertnode(root,4);
     insertnode(root,6);
     insertnode(root,7);
