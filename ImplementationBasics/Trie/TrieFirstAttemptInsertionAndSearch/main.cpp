@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//BadMemoryAllocationError
+//noerror
 struct node
 {
     node* children[26];
