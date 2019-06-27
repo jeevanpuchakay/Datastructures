@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-//BadMemoryAllocationError
+//noerror
 struct node
 {
     node* children[26];
@@ -42,9 +42,8 @@ bool search(node* root,string text)
 int main()
 {
     string text[]={"i","learnt","from","geeks","forgeeks","geeksfor","what","about","you"};
-    node* root=NULL;
-    root=createnode();
-    for(int i=0;i<sizeof(text);i++)
+    node* root=createnode();
+    for(int i=0;i<9;i++)
         inserttext(root,text[i]);
     search(root,"what")?cout<<"present":cout<<"absent"<<endl;
     search(root,"you")?cout<<"present":cout<<"absent"<<endl;
