@@ -1,5 +1,5 @@
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags:  
 
@@ -8,7 +8,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: -c 
 
@@ -17,7 +17,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: --c++ 
 
@@ -26,7 +26,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: --ec++ 
 
@@ -35,7 +35,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags:  
 
@@ -44,7 +44,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: -c 
 
@@ -53,7 +53,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: --c++ 
 
@@ -62,7 +62,7 @@ No such file or directory
 
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
-Compiler: /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h 
+Compiler: /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe 
 Build flags: 
 Id flags: --ec++ 
 

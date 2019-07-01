@@ -42,7 +42,7 @@ CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
 //No help, variable specified on the command line.
-CMAKE_CXX_COMPILER:UNINITIALIZED=/home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h
+CMAKE_CXX_COMPILER:UNINITIALIZED=/home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe
 
 //Flags used by the CXX compiler during all build types.
 CMAKE_CXX_FLAGS:STRING=

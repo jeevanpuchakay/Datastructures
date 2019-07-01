@@ -1,4 +1,4 @@
-/home/jeevan/Documents/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h -G "CodeBlocks - Unix Makefiles" /home/jeevan/Documents/Datastructures/ImplementationBasics/ArrayToBST
+/home/jeevan/Documents/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_CXX_COMPILER=/home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe -G "CodeBlocks - Unix Makefiles" /home/jeevan/Documents/Datastructures/ImplementationBasics/ArrayToBST
 -- The C compiler identification is GNU 7.4.0
 -- The CXX compiler identification is unknown
 -- Check for working C compiler: /usr/bin/cc
@@ -10,7 +10,7 @@
 CMake Error at CMakeLists.txt:2 (project):
   The CMAKE_CXX_COMPILER:
 
-    /home/jeevan/Downloads/ming/gcc-core-4.8.1-4-mingw32-dev/lib/gcc/mingw32/4.8.1/include/adxintrin.h
+    /home/jeevan/Documents/mingw/mingw64/bin/gcc-ar.exe
 
   is not a full path to an existing compiler tool.
 

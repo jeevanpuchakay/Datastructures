@@ -56,7 +56,7 @@ int main()
     {
         cin>>arr[i];
     }
-    node*root=NULL;
+    node *root=NULL;
     root=createbst(root,arr,0,n-1);
     printinorder(root);
     cout<<endl;
